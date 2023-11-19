@@ -1,2 +1,2 @@
 # newsApp
- flutter project working with free APIs, weather api
+ flutter project working with free APIs, News api
